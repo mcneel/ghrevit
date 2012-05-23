@@ -2,6 +2,9 @@ ghrevit Project
 =========================
 Grasshopper &lt;-> Revit Communication
 
+Discussions for help on using these files can be found at:
+
+* http://www.grasshopper3d.com/group/gh-revit
 
 Get Involved (contributing)
 ---------------------------
@@ -10,6 +13,9 @@ There are many ways to contribute to this project:
 * Report bugs/wishes to the issue list at https://github.com/mcneel/ghrevit/issues
 * Directly edit the source code using git. If you need help with this, please let us know.
 
+You are going to need either:
+
+* The latest Rhino (http://www.rhino3d.com/nr.htm) and Grasshopper (http://www.grasshopper3d.com/page/download-1)
 
 Authors
 -------
