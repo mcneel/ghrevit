@@ -1,5 +1,7 @@
 ghrevit Project
 =========================
+![GHRevit](https://github.com/mcneel/ghrevit/raw/master/Images/revittoGH.png)
+
 Grasshopper &lt;-> Revit Communication
 
 Discussions for help on using these files can be found at:
